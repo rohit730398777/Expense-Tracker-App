@@ -1,0 +1,28 @@
+{
+  "expenses": [
+    {
+      "id": "e1",
+      "title": "car Insurance",
+      "amount": 300,
+      "date": "2025-07-21"
+    },
+    {
+      "id": "e2",
+      "title": "House Rent",
+      "amount": 400,
+      "date": "2025-08-25"
+    },
+    {
+      "id": "e3",
+      "title": "Tution Fees",
+      "amount": 700,
+      "date": "2025-09-15"
+    },
+    {
+      "id": "0.16446537347479562",
+      "title": "food",
+      "amount": "420",
+      "date": "2025-09-19T00:00:00.000Z"
+    }
+  ]
+}
